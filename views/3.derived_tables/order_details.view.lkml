@@ -16,7 +16,7 @@ view: order_details {
     type: number
   }
 
-  dimension: total_revenue {
+  measure: total_revenue {
     description: ""
     value_format: "$#,##0.00"
     type: number
