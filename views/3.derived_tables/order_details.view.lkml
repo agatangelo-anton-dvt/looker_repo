@@ -19,6 +19,6 @@ view: order_details {
   measure: total_revenue {
     description: ""
     value_format: "$#,##0.00"
-    type: number
+    type: sum
   }
 }
